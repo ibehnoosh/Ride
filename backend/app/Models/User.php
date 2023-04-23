@@ -36,7 +36,7 @@ class User extends Authenticatable
         return $this->phone;
     }
 
-    public function diver(): HasOne
+    public function driver(): HasOne
     {
         return $this->hasOne(Driver::class);
     }
