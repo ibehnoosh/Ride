@@ -19,7 +19,7 @@ class TripAccepted
     /**
      * Create a new event instance.
      */
-    public function __construct(public Trip $trip,public User $user)
+    public function __construct(public Trip $trip,private User $user)
     {
         //
     }

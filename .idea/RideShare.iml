@@ -4,6 +4,26 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/twilio/sdk" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/laravel-notification-channels/twilio" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/pusher/pusher-php-server" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/cboden/ratchet" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/ringcentral/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/paragonie/sodium_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/evenement/evenement" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/beyondcode/laravel-websockets" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/ratchet/rfc6455" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/promise-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/socket" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/stream" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/event-loop" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/http" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/promise-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/react/dns" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/fig/http-message-util" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
